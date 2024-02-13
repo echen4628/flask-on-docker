@@ -1,6 +1,6 @@
 This repo contains code for containerizing a Flask application with Postgres for development. It also contains production-ready setup with Gunicorn and Nginx. The website could be launched locally and allows users to upload media files and display static files. See below for the resulting website and instructions on how to use this setup.
 
-<img src="demo.gif" width="40" height="40" />
+<img src="demo.gif" width="80%" />
 
 Create and add your login to `.env.prod`. It should have the following fields
 ```
